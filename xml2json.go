@@ -16,7 +16,7 @@ package xml2json
 
 import (
 	"encoding/xml"
-	"github.com/textnode/jsonStreamer"
+	"github.com/Jason916/jsonStreamer"
 	"io"
 )
 
