@@ -17,7 +17,7 @@ package main
 import (
 	"log"
 	"os"
-	"github.com/textnode/xml2json"
+	"github.com/Jason916/xml2json"
 )
 
 func main() {
